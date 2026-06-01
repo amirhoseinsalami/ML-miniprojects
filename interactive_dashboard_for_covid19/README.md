@@ -18,18 +18,20 @@ A data visualization dashboard for analyzing COVID-19 trends using interactive a
 COVID-19 public dataset containing cases, deaths, and recoveries by country/date.
 
 ## How to Run
-1.  Clone the repository:
+1. Clone the repository:
 ```bash
    git clone https://github.com/amirhoseinsalami/ML-miniprojects.git   
+```
 
 2. Install dependencies:
 ```bash
    pip install numpy pandas seaborn matplotlib plotly
-   
+```   
 
 3. Run the notebook or script:
 ```bash
    jupyter notebook interactive_dashboard_for_covid19.ipynb
+```
    
 ## Results
 - Visualized global COVID-19 spread over time
