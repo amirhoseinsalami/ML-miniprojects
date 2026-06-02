@@ -36,7 +36,7 @@ Contains 20,640 samples with features like median income, house age, location, e
 
 3. Run the notebook:
 ```bash
-   jupyter notebook housing_price_prediction.ipynb
+   jupyter notebook california_housing_prices.ipynb
 ```
 
 ## Results
